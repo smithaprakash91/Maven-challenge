@@ -1,6 +1,8 @@
 # Maven challenge
  
 Why Is Data Visualization Important?
+
+
 Data is the new oil! No matter in what business you’re in, data visualization helps in delivering the insights effectively for decision making.
 
 Data visualization provides a crisp outline of the information through graphs and maps (Longitude & Latitude). This enables the data more powerful for human brain to understand and associate with the patterns, trends, outliers, missing data within the data sets.
