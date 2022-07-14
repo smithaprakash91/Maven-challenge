@@ -33,3 +33,5 @@ Heatmaps: It helps to highlight numerical data points in light colors to indicat
 Area charts: These are preferred to determine time-series relationship. If you’re want to find profit or sales numbers over the individual departments on monthly or yearly basis.
 
 Data visualization provides immersive benefits to sales, marketing and most importantly for business decisions. Visualization helps to keep the organizations ahead with marketing trends by obtaining information quickly. Data displayed on a interactive dashboard allows business to take necessary actions for further developments.
+
+For my latest work please visit this link https://public.tableau.com/app/profile/smitha.n.prakash
